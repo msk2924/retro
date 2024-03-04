@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    height: 100vh; /* Take up full viewport height */
+    margin: 0; /* Remove default margin */
+    font-family: 'Arial', sans-serif; /* Set font family */
+    background-color: #f0f0f0; /* Set background color */
+}
+
+h1 {
+    font-family: 'Shadows Into Light';
+    font-size: 100px; /* Adjust font size */
+    color: #000; /* Set font color */
+    margin-bottom: 40px;
+}
+h2 {
+    margin-top: 40px;
+    font-family: 'six caps';
+    font-size: 50px; /* Adjust font size */
+    color: #ff0000; /* Set font color */
+}
+ 
